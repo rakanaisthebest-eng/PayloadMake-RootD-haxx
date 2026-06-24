@@ -1,4 +1,4 @@
-To run the program, you have to click any of those files that named: (.vbs) and (.bat)
+To run the program, you have to click on the vbs file.
 
 Have Fun!
 
